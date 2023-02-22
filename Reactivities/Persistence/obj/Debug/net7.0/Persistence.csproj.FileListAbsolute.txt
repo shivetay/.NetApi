@@ -1,0 +1,15 @@
+E:\Programowanie\.net\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+E:\Programowanie\.net\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+E:\Programowanie\.net\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+E:\Programowanie\.net\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+E:\Programowanie\.net\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+E:\Programowanie\.net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+E:\Programowanie\.net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programowanie\.net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+E:\Programowanie\.net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+E:\Programowanie\.net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Programowanie\.net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+E:\Programowanie\.net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+E:\Programowanie\.net\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+E:\Programowanie\.net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+E:\Programowanie\.net\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll

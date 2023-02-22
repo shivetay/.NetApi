@@ -1,0 +1,17 @@
+E:\Programowanie\.net\Reactivities\Application\bin\Debug\net7.0\Application.deps.json
+E:\Programowanie\.net\Reactivities\Application\bin\Debug\net7.0\Application.dll
+E:\Programowanie\.net\Reactivities\Application\bin\Debug\net7.0\Application.pdb
+E:\Programowanie\.net\Reactivities\Application\bin\Debug\net7.0\Domain.dll
+E:\Programowanie\.net\Reactivities\Application\bin\Debug\net7.0\Persistence.dll
+E:\Programowanie\.net\Reactivities\Application\bin\Debug\net7.0\Domain.pdb
+E:\Programowanie\.net\Reactivities\Application\bin\Debug\net7.0\Persistence.pdb
+E:\Programowanie\.net\Reactivities\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+E:\Programowanie\.net\Reactivities\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programowanie\.net\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+E:\Programowanie\.net\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+E:\Programowanie\.net\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+E:\Programowanie\.net\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+E:\Programowanie\.net\Reactivities\Application\obj\Debug\net7.0\Application.dll
+E:\Programowanie\.net\Reactivities\Application\obj\Debug\net7.0\refint\Application.dll
+E:\Programowanie\.net\Reactivities\Application\obj\Debug\net7.0\Application.pdb
+E:\Programowanie\.net\Reactivities\Application\obj\Debug\net7.0\ref\Application.dll
