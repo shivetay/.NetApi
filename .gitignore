@@ -9,3 +9,5 @@ Reactivities/API/obj
 Reactivities/Application/obj
 Reactivities/Domain/obj
 Reactivities/Persistence/obj
+
+appsettings.json
