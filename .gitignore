@@ -5,3 +5,7 @@ Reactivities/Domain/bin/
 Reactivities/Persistence/obj/
 Reactivities/Persistence/bin/
 Reactivities/Application/obj/
+Reactivities/API/obj
+Reactivities/Application/obj
+Reactivities/Domain/obj
+Reactivities/Persistence/obj
