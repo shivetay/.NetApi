@@ -15,6 +15,12 @@ builder.Services.AddDbContext<DataContext>(opt => {
   opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
+builder.Services.AddCors(opt => {
+  opt.AddPolicy("CorsPolicy",policy => {
+    policy.AllowAnyMethod().AllowAnyHeader().WithOrigins("http://localhost:5000");
+  });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline. Middleware
@@ -23,6 +29,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("CorsPolicy"); // this need to go high because server will do a req before everything. Name should match name adde in AddPolicy
 
 app.UseHttpsRedirection();
 
