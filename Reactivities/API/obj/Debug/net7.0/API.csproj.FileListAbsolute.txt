@@ -73,3 +73,6 @@ E:\Programowanie\.net\Reactivities\API\bin\Debug\net7.0\Humanizer.dll
 E:\Programowanie\.net\Reactivities\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\Programowanie\.net\Reactivities\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 E:\Programowanie\.net\Reactivities\API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Programowanie\.net\Reactivities\API\bin\Debug\net7.0\MediatR.dll
+E:\Programowanie\.net\Reactivities\API\bin\Debug\net7.0\MediatR.Contracts.dll
+E:\Programowanie\.net\Reactivities\API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

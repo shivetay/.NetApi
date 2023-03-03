@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programowanie\\.net\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "e:\\Programowanie\\.net\\Reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
     "E:\\Programowanie\\.net\\Reactivities\\Domain\\Domain.csproj": {
@@ -63,14 +63,14 @@
         }
       }
     },
-    "E:\\Programowanie\\.net\\Reactivities\\Persistence\\Persistence.csproj": {
+    "e:\\Programowanie\\.net\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programowanie\\.net\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "e:\\Programowanie\\.net\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "E:\\Programowanie\\.net\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "e:\\Programowanie\\.net\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-        "outputPath": "E:\\Programowanie\\.net\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "e:\\Programowanie\\.net\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "e:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
